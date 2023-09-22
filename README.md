@@ -2,6 +2,11 @@
 
 The provided GLSL shader is designed to generate a visual effect, often used in real-time graphics, computer games, or procedural art.
 
+## Preview
+
+![Shader Preview](https://example.com/path-to-your-gif.gif)
+
+
 ## Global Variables
 
 - `float time;`: This is a global variable representing time. It is likely used to create time-dependent animations or effects in the shader.
