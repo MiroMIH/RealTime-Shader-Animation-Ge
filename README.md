@@ -4,7 +4,7 @@ The provided GLSL shader is designed to generate a visual effect, often used in 
 
 ## Preview
 
-![Shader Preview](https://example.com/path-to-your-gif.gif)
+![Shader Preview](Preview.gif)
 
 
 ## Global Variables
